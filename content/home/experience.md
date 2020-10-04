@@ -79,9 +79,9 @@ date_format = "Jan 2006"
   date_end = "2020-08-01"
   description = """
 Responsibilities include:
-	* Recording and processing stimuli
-	* Designing experiments
-	* Running participants
+* Recording and processing stimuli
+* Designing experiments
+* Recruiting and running participants
 """ 
 +++
 
