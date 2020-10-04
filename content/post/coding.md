@@ -41,10 +41,11 @@ Several years later, I have put these skills to good use - so here is a compilat
 - Code to check if word exhibits vowel harmony
 
 ## LATEX
-- My MPhil thesis and submitted work
 - Slides for teaching and conference presentations
 - Handouts
 - Conference abstracts
+- My MPhil and DPhil theses and submitted work
+
 	
 All in all, totally worth it
 
