@@ -19,7 +19,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include phonology, morphology, psycholinguistics and Arabic linguistics.
 
-
 education:
   courses:
   - course: DPhil in Comparative Philology and General Linguistics
@@ -63,7 +62,7 @@ education:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
