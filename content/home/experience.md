@@ -18,27 +18,70 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Departmental Lecturer in Phonology"
+  company = "Faculty of Linguistics, Philology and Phonetics"
+  company_url = "https://www.ling-phil.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2020-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Teaching includes:
+  * Graduate Phonology Foundation Course Lectures
+  * Graduate Phonology Advanced Lectures
+  * Phonology Reading Group
+  * Graduate Historical Linguistics Lectures
+  * General Linguistics tutorials (first year undergraduates)
+""" 
+
+[[experience]]
+  title = "Associate Lecturer in Education"
+  company = "Oxford Brookes University"
+  location = "Oxford, UK"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  Lecturer for introduction to phonetics, phonology, and phonetics for first year undergraduates
+""" 
+
+[[experience]]
+  title = "DPhil Researcher"
+  company = "Faculty of Linguistics, Philology and Phonetics"
+  company_url = "https://www.ling-phil.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2018-09-01"
+  date_end = ""
+  description = """
+  Research Project:
+   * Phonological Typology of Modern Arabic Varieties
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Tutor"
+  company = "Faculty of Linguistics, Philology and Phonetics"
+  company_url = "https://www.ling-phil.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2018-10-01"
+  date_end = "2020-07-01"
+  description = """
+  Tutor for courses including:
+  * Graduate Phonology Practical Classes
+  * General Linguistics (first year undergraduates)
+  * Anthropology of Language, University of Georgia at Oxford Study Abroad Program
+  * Statistics
+""" 
 
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "Language and Brain Laboratory, Faculty of Linguistics, Philology and Phonetics"
+  company_url = "http://brainlab.clp.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2018-10-01"
+  date_end = "2020-08-01"
+  description = """
+Responsibilities include:
+	* Recording and processing stimuli
+	* Designing experiments
+	* Running participants
+""" 
 +++
+
