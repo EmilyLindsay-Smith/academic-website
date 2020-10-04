@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily Lindsay-Smith
+name: Emily Lindsay-Smith
 # Username (this should match the folder name)
 authors:
 - admin
