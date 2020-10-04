@@ -25,10 +25,10 @@ Here's a compilation of resources (some of which I've used) that may hopefully b
 - [Ozan Jaquette Introduction to Data Management Using R](https://ozanj.github.io/rclass/resources/)
 - [Modern Dive: An Introduction to Statistical and Data Sciences via R]( https://moderndive.com/index.html)
 - [Complete Tutorial to learn Data Science in R from Scratch](https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
--[Compilation of R resources from UCL](https://www.ucl.ac.uk/~uctqiax/PUBLG100/2015/resources.html)
--[Ultimate R Cheatsheet](https://www.business-science.io/r-cheatsheet.html)
--[Assorted Data Science Cheatsheets](https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
--[Data Visualization in R Cheatsheet](https://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualization-with-r)
+- [Compilation of R resources from UCL](https://www.ucl.ac.uk/~uctqiax/PUBLG100/2015/resources.html)
+- [Ultimate R Cheatsheet](https://www.business-science.io/r-cheatsheet.html)
+- [Assorted Data Science Cheatsheets](https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
+- [Data Visualization in R Cheatsheet](https://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualization-with-r)
 
 # Autohotkey
 - [Autohotkey](https://www.autohotkey.com/)
