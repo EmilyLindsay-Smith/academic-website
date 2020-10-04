@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Emily Lindsay-Smith
+title: Emily Lindsay-Smith
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,7 +14,7 @@ role: Departmental Lecturer in Phonology
 # Organizations/Affiliations
 organizations:
 - name: Faculty of Linguistics, Philology and Phonetics at the University of Oxford
-  url: "https://www.ling-phil.ox.ac.uk/"
+  url: https://www.ling-phil.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include phonology, morphology, psycholinguistics and Arabic linguistics.
@@ -37,7 +37,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/emily_linguist
