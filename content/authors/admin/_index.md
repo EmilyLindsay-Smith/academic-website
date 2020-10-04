@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am interested in the internal structure of words(phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
+I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
 
 I am currently a Departmental Lecturer in Phonology at the University of Oxford. My teaching includes general linguistics, phonology and historical linguistics. I am also an Associate Lecturer in Education at Oxford Brookes, where I teach phonetics, phonology and morphology
 
