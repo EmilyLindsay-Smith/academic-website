@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily Lindsay-Smith
+title: Dr. Emily Lindsay-Smith
 # Username (this should match the folder name)
 authors:
 - admin
@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Departmental Lecturer in Phonology
+role: Outreach Officer
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ education:
   courses:
   - course: DPhil in Comparative Philology and General Linguistics
     institution: University of Oxford
-    year: 2020 (predicted)
+    year: 2021
   - course: MPhil in General Linguistics and Comparative Philology
     institution: University of Oxford
     year: 2018
@@ -74,7 +74,7 @@ user_groups:
 
 I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
 
-I am currently a Departmental Lecturer in Phonology at the University of Oxford. My teaching includes general linguistics, phonology and historical linguistics. I am also an Associate Lecturer in Education at Oxford Brookes, where I teach phonetics, phonology and morphology
+I am currently an Outreach Officer for linguistics at the University of Oxford. I have previously worked as Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
 
 In terms of my research, my recent work has focused on the phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation. I also explore the psycholinguistic processing of complex words through psycholinguistic experiments. 
 
