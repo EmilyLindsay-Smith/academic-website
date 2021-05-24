@@ -17,19 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Outreach Officer"
+  company = "Faculty of LInguistics, Philology and Phonetics, Oxford University"
+  company_url = "https://www.ling-phil.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  Outreach promoting linguistics to prospective students
+""" 
+
 [[experience]]
   title = "Departmental Lecturer in Phonology"
-  company = "Faculty of Linguistics, Philology and Phonetics"
+  company = "Faculty of Linguistics, Philology and Phonetics, Oxford University"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """
-  Teaching includes:
+  Teaching included:
   * Graduate Phonology Foundation Course Lectures
   * Graduate Phonology Advanced Lectures
   * Phonology Reading Group
+  * Dynamic Phonetics Lectures (first year undergraduates)
+  * Phonetics and Phonology tutorials (first year undergraduates)
   * Graduate Historical Linguistics Lectures
+  * Graduate Psycholinguistics Lectures
   * General Linguistics tutorials (first year undergraduates)
 """ 
 
@@ -38,18 +53,18 @@ date_format = "Jan 2006"
   company = "Oxford Brookes University"
   location = "Oxford, UK"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = """
   Lecturer for introduction to phonetics, phonology, and phonetics for first year undergraduates
 """ 
 
 [[experience]]
   title = "DPhil Researcher"
-  company = "Faculty of Linguistics, Philology and Phonetics"
+  company = "Faculty of Linguistics, Philology and Phonetics, Oxford University"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-04-12"
   description = """
   Research Project:
    * Phonological Typology of Modern Arabic Varieties
@@ -57,7 +72,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Tutor"
-  company = "Faculty of Linguistics, Philology and Phonetics"
+  company = "Faculty of Linguistics, Philology and Phonetics, Oxford University"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2018-10-01"
