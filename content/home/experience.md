@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "Surrey Morphology Group, University of Surrey"
+  company_url = "https://www.smg.surrey.ac.uk/"
+  location = "Guildford, UK"
+  date_start = "2021-07-12"
+  date_end = ""
+  description = """
+  Investigating analogy with Erich Round. 
+""" 
+
+[[experience]]
   title = "Outreach Officer"
   company = "Faculty of LInguistics, Philology and Phonetics, Oxford University"
   company_url = "https://www.ling-phil.ox.ac.uk/"
