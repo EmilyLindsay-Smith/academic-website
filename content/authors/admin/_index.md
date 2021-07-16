@@ -9,12 +9,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Outreach Officer
+role: Postdoctoral Research Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: Faculty of Linguistics, Philology and Phonetics at the University of Oxford
-  url: https://www.ling-phil.ox.ac.uk/
+- name: Surrey Morphology Group, University of Surrey 
+  url: https://www.smg.surrey.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include phonology, morphology, psycholinguistics and Arabic linguistics.
@@ -74,8 +74,8 @@ user_groups:
 
 I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
 
-I am currently an Outreach Officer for linguistics at the University of Oxford. I have previously worked as Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
+I am currently a Postdoctoral Research Fellow at the Surrey Morphology Group, investigating analogy with Erich Round. I am also an Outreach Officer for linguistics at the University of Oxford. I have previously worked as Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching experience includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
 
-In terms of my research, my recent work has focused on the phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation. I also explore the psycholinguistic processing of complex words through psycholinguistic experiments. 
+In terms of my research, I am currently working on analogy. My doctoral work focused on the phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation. I also explore the psycholinguistic processing of complex words through psycholinguistic experiments. 
 
 Outside of linguistics, I enjoy crochet, strategy board games, and fantasy fiction. 
