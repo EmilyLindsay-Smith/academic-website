@@ -28,6 +28,16 @@ date_format = "Jan 2006"
   description = """
   Investigating analogy with Erich Round. 
 """ 
+[[experience]]
+  title = "Postdoctoral Research Assistant"
+  company = "Faculty of LInguistics, Philology and Phonetics, Oxford University"
+  company_url = "https://www.ling-phil.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2021-12-01"
+  date_end = ""
+  description = """
+  Optimising the FlexSR speech recognition program
+""" 
 
 [[experience]]
   title = "Outreach Officer"
@@ -35,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2021-04-01"
-  date_end = ""
+  date_end = "2021-11-30"
   description = """
   Outreach promoting linguistics to prospective students
 """ 

@@ -39,18 +39,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/emily_linguist
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/emily_linguist
 #- icon: graduation-cap  # OR `google-scholar`
 #  icon_pack: fas  # OR `ai`
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/emilylindsay-smith
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/emily-lindsay-smith/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,7 +74,9 @@ user_groups:
 
 I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
 
-I am currently a Postdoctoral Research Fellow at the Surrey Morphology Group, investigating analogy with Erich Round. I am also an Outreach Officer for linguistics at the University of Oxford. I have previously worked as Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching experience includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
+I am currently a Postdoctoral Research Fellow at the Surrey Morphology Group, investigating analogy with Erich Round. I am also an Postdoctoral Research Assistant at the University of Oxford, using python to optimise the FlexSR speech recognition program.
+
+I have previously worked as Departmental Lecturer in Phonology and Outreach Officer at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching experience includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
 
 In terms of my research, I am currently working on analogy. My doctoral work focused on the phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation. I also explore the psycholinguistic processing of complex words through psycholinguistic experiments. 
 
