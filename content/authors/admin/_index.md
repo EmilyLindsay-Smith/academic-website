@@ -76,9 +76,10 @@ I am interested in the internal structure of words (phonology and morphology), h
 
 I am currently a Postdoctoral Researcher at the Faculty of Linguistics, Philology and Phonetics at University of Oxford. I work primarily on the EPSRC-funded Pertinacity grant (2022-2027), where I am responsible for the computational strand of the project. 
 
-
 Previously, I worked at the Surrey Morphology Group as a Postdoctoral Research Fellow exploring typological patterns in analogy with Erich Round. I have also worked as an Outreach Officer and Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching includes phonology, phonetics, psycholinguistics, historical linguistics, morphology and general linguistics. 
  
 I completed my doctorate at Oxford in 2021, where I looked at phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation.
+
+For my academic CV, look [here](media/resume.pdf). For my non-academic CV, look [here](media/EmilyLindsaySmith_CV.pdf).
 
 Outside of linguistics, I enjoy crochet, strategy board games, and fantasy fiction. 
