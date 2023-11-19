@@ -18,36 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Postdoctoral Research Fellow"
-  company = "Surrey Morphology Group, University of Surrey"
-  company_url = "https://www.smg.surrey.ac.uk/"
-  location = "Guildford, UK"
-  date_start = "2021-07-12"
-  date_end = ""
-  description = """
-  Investigating analogy with Erich Round. 
-""" 
+
 [[experience]]
   title = "Postdoctoral Research Assistant"
-  company = "Faculty of LInguistics, Philology and Phonetics, Oxford University"
+  company = "Faculty of Linguistics, Philology and Phonetics"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2021-12-01"
   date_end = ""
   description = """
-  Optimising the FlexSR speech recognition program
-""" 
+  * Improved speed of FlexSR speech recognition system by 40%
+  * Developed a Python tool for building psycholinguistic experiments
+  * Co-organised an international linguistics conference including building a responsive website in React (available at [ichl.ling-phil.ox.ac.uk](https://ichl.ling-phil.ox.ac.uk))
+"""
+
+[[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "Surrey Morphology Group, Surrey Univeristy"
+  company_url = "https://www.smg.surrey.ac.uk"
+  location = "Surrey, UK"
+  date_start = "2021-07-08"
+  date_end = "2022-08-30"
+  description = """
+  * Researched language change to inform the building of computational models
+  * Used Linux interface to run computational models on a High Performance Cluster
+  * Co-authored articles for peer-reviewed publishing and conference presentation
+  * Part of team organising a workshop on analogy for the International Morphology Meeting 2022
+"""
 
 [[experience]]
   title = "Outreach Officer"
-  company = "Faculty of LInguistics, Philology and Phonetics, Oxford University"
+  company = "Faculty of Linguistics, Philology and Phonetics"
   company_url = "https://www.ling-phil.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2021-04-01"
   date_end = "2021-11-30"
   description = """
-  Outreach promoting linguistics to prospective students
+  * Created a website with WordPress at [explore.ling-phil.ox.ac.uk](explore.ling-phil.ox.ac.uk) to showcase applicant-facing content
+  * Provided linguistics taster sessions to prospective students from under-represented groups, including organising a week-long summer school course
+  * Developed links with the local community with flash talks at Modern Art Oxford
+  * Designed an outreach strategy for the Faculty of Linguistics, Oxford
 """ 
 
 [[experience]]

@@ -9,15 +9,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow 
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Surrey Morphology Group, University of Surrey 
-  url: https://www.smg.surrey.ac.uk/
+- name: Language and Brain Lab, Faculty of Linguistics, Philology and Phonetics, University of Oxford
+  url: http://brainlab.clp.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phonology, morphology, psycholinguistics and Arabic linguistics.
+bio: My research interests include phonology, computational linguistics, psycholinguistics and Arabic linguistics.
 
 education:
   courses:
@@ -45,9 +45,9 @@ social:
 #- icon: graduation-cap  # OR `google-scholar`
 #  icon_pack: fas  # OR `ai`
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/emilylindsay-smith
+# icon: github
+ # icon_pack: fab
+  #link: https://github.com/emilylindsay-smith
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/emily-lindsay-smith/
@@ -72,12 +72,13 @@ user_groups:
 - Visitors
 ---
 
-I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). 
+I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). I am fascinated by how linguistic research in these areas can contribute to computational speech recognition.
 
-I am currently a Postdoctoral Research Fellow at the Surrey Morphology Group, investigating analogy with Erich Round. I am also an Postdoctoral Research Assistant at the University of Oxford, using python to optimise the FlexSR speech recognition program.
+I am currently a Postdoctoral Researcher at the Faculty of Linguistics, Philology and Phonetics at University of Oxford. I work primarily on the EPSRC-funded Pertinacity grant (2022-2027), where I am responsible for the computational strand of the project. 
 
-I have previously worked as Departmental Lecturer in Phonology and Outreach Officer at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching experience includes phonology, phonetics, psycholinguistics, historical linguistics, morpholoyg and general linguistics. 
 
-In terms of my research, I am currently working on analogy. My doctoral work focused on the phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation. I also explore the psycholinguistic processing of complex words through psycholinguistic experiments. 
+Previously, I worked at the Surrey Morphology Group as a Postdoctoral Research Fellow exploring typological patterns in analogy with Erich Round. I have also worked as an Outreach Officer and Departmental Lecturer in Phonology at the University of Oxford and Associate Lecturer in Education at Oxford Brookes. My teaching includes phonology, phonetics, psycholinguistics, historical linguistics, morphology and general linguistics. 
+ 
+I completed my doctorate at Oxford in 2021, where I looked at phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation.
 
 Outside of linguistics, I enjoy crochet, strategy board games, and fantasy fiction. 
