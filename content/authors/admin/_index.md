@@ -50,7 +50,7 @@ social:
   #link: https://github.com/emilylindsay-smith
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/emily-lindsay-smith/
+  link: https://www.linkedin.com/in/emily-lindsay-smith/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am interested in the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). I am fascinated by how linguistic research in these areas can contribute to computational speech recognition.
+I am fascinated by the internal structure of words (phonology and morphology), how they are processed in the brain (psycholinguistics), and how they change over time (historical linguistics). I am interested in how language can be modelled computationally, including speech recognition.
 
 I am currently a Postdoctoral Researcher at the Faculty of Linguistics, Philology and Phonetics at University of Oxford. I work primarily on the EPSRC-funded Pertinacity grant (2022-2027), where I am responsible for the computational strand of the project. 
 
@@ -80,6 +80,6 @@ Previously, I worked at the Surrey Morphology Group as a Postdoctoral Research F
  
 I completed my doctorate at Oxford in 2021, where I looked at phonological typology of modern Arabic varieties with regards to syllable structure, stress, and affixation.
 
-For my academic CV, look [here](media/resume.pdf). For my non-academic CV, look [here](media/EmilyLindsaySmith_CV.pdf).
+For my academic CV, please look [here](media/resume.pdf). For my non-academic CV, please look [here](media/EmilyLindsaySmith_CV.pdf).
 
 Outside of linguistics, I enjoy crochet, strategy board games, and fantasy fiction. 
