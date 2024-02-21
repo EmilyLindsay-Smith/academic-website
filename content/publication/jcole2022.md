@@ -8,7 +8,7 @@ authors:
 - Louise Esher
 - Matt Spike
 date: "2022-09-06"
-url_pdf: "https://evolang.org/jcole2022/proceedings/papers/JCoLE2022_paper_220.pdf"
+#url_pdf: "https://evolang.org/jcole2022/proceedings/papers/JCoLE2022_paper_220.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-21"
